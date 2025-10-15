@@ -35,6 +35,3 @@ Aplicación web para CRUD de estudiantes usando Java EE (Servlets, JSP, patrón 
 - Añadir JSTL y sacar lógica de presentación de los JSPs.
 - Implementar paginación y búsqueda.
 
-## Capturas de ejemplo
-(Incluir capturas aquí)
-
